@@ -1,3 +1,8 @@
+### My socials:
+- [Twitter](https://x.com/FromSunNews)
+- [Telegram](https://t.me/+84378630804)
+- [Linkedin](https://www.linkedin.com/in/tunhatphuong2002)
+
 # Stake Contract
 
 This project implements a staking system using the Move language on the Aptos blockchain framework. The main modules include:
